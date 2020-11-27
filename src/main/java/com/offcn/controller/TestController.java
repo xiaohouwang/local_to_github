@@ -12,5 +12,7 @@ public class TestController {
         System.out.println("本地修改，提交到Github上");
         // 下载GitHub中修改后的代码：右键 -> Git -> Repository -> pull...
         System.out.println("组员A修改了代码并提交到GitHub上");
+
+        System.out.println("新员工B在分支上所做的修改");
     }
 }
