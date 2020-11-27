@@ -10,6 +10,5 @@ public class TestController {
         // 提交代码到本地仓库：在修改的位置 右键 -> Git -> Commit Directory... -> commit（仅提交到本地仓库） / commit and push（提交到本地仓库并且同时提交到中央仓库（GitHub））
         // 提交本地修改后的代码到GitHub：右键 -> Git -> Repository -> push... (将本地仓库中代码的修改，提交到中央仓库（GitHub）)
         System.out.println("本地修改，提交到Github上");
-        System.out.println("组员A修改的代码，并提交到了GitHub上");
     }
 }
