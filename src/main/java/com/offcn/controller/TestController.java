@@ -16,5 +16,7 @@ public class TestController {
         System.out.println("新员工B在分支上所做的修改");
 
         System.out.println("我自己做的修改");
+
+        System.out.println("新员工C修改了代码，并提交到GitHub了");
     }
 }
